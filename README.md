@@ -1,7 +1,3 @@
-Sure, here's a basic outline for your README.md file:
-
----
-
 # MealPal
 
 MealPal is a web application designed to help users create meal plans easily. The application guides users through a signup process with multiple steps and provides a success page upon completion. Additionally, it includes a 404 error page for invalid routes and implements form validations.
