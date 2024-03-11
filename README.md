@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+Sure, here's a basic outline for your README.md file:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+# MealPal
 
-In the project directory, you can run:
+MealPal is a web application designed to help users create meal plans easily. The application guides users through a signup process with multiple steps and provides a success page upon completion. Additionally, it includes a 404 error page for invalid routes and implements form validations.
 
-### `npm start`
+## Fonts
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Headings**: Montserrat
+- **Body**: Open Sans
+- **Logo**: Lobster
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You can use these fonts to maintain consistency and enhance the visual appeal of your project. Make sure to include the appropriate font import statements in your CSS or SCSS files to use these fonts throughout your application.
 
-### `npm test`
+## Pages
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Home Page
 
-### `npm run build`
+The home page features a "Get Started" button that redirects users to the signup process.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Signup/Step1
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The first step of the signup process where users select their age group.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Signup/Step2
 
-### `npm run eject`
+The second step of the signup process where users select their dislikes.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Signup/Success
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The success page displayed upon successful completion of the signup process.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 404 Page
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The 404 error page displayed when a user navigates to an invalid route.
 
-## Learn More
+## Form Validations
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Minor Form validations are implemented throughout the signup process to ensure data integrity and accuracy.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributed by
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project was contributed by [NFORSHIFU234 Dev 🖤👨🏾‍💻 || Shifu-Nfor Nyuiring-yoh Rhagninyui](https://github.com/nforshifu234dev). Connect with me on [Twitter](https://x.com/nforshifu234dev), [GitHub](https://github.com/nforshifu234dev), and [LinkedIn](https://www.linkedin.com/in/nforshifu234dev/).
